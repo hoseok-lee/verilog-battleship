@@ -1,4 +1,4 @@
-# verilog-battleship
+# Verilog Battleship
 An FPGA (Verilog) implementation of the board game *battleship*. A DE1-SoC CycloneV 5CSEMA5F31C6 board was used to implement the project.
 
 
